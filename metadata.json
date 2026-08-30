@@ -1,0 +1,6 @@
+{
+  "name": "QELVORIQ NEXUS",
+  "description": "Premier digital commerce and agency ecosystem offering AI automation, agents, social growth services, tech solutions, and smart ecommerce shopping.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
